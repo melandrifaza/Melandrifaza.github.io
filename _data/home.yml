@@ -1,36 +1,27 @@
 navbar_entries:
-  - title: about
+  - title: About Melandri
     url: about
 
-  - title: blog
+  - title: Social Media 
     url: blog
 
 project_entries:
-  - title: Project 1
+  - title: UNION 4.0
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Staff of Event Organizer
 
-  - title: Project 2
+  - title: BUSINESS FAIR 2021
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Manager of Event Organizer
 
-  - title: Project 3
+  - title: BASIC 2.0 
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Staff of Event Organizer
 
-  - title: Project 4
+  - title:  Carasel Legantara
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: Stage Manager of Carasel Legantara 2020
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
