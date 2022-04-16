@@ -5,9 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
   - title: Project 1
     url: overview-post
@@ -54,18 +51,15 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Instagram
+    url: https://www.instagram.com/fazamelandri/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Linkedin
+    url: https://www.linkedin.com/in/melandri-abudzar/
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
+    url: https://github.com/melandrifaza
+    
 misc_entries:
   - title: this is an example vertical list
     url: false
