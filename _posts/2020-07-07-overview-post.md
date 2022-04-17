@@ -1,84 +1,66 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Melandri Rifaza
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+Welcome to my CV!
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+Enthusiastic, highly-motivated Digital Business student who likes to take initiative, seek out new challenges and willing to learn new things
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+## Education
 
-## Lists
-
-Unordered:
-
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
-
-Ordered:
-
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
-
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
+UNIVERSITAS PADJADJARAN	2021 – Present
+Majoring in Digital Business, Faculty of Economics and Business
 
 ---
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
+SMAN 68 JAKARTA 	2018 – 2021
+Natural Science
 
-## Code
 
-Now some code:
+## Organizational Experience
 
-```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
-```
+BEM KEMA FEB UNIVERSITAS PADJADJARAN			 
+Staff of Human Resouce Development	Feb 2022 - Present
+•	Responsible for assessing other thirteen members performance using BARS scales.
+•	Responsible for maintaining good relations between members which affected the performance of thirteen members who scored above average. 
+•	Maintain a safe and healthy working environment for all members.
 
-And here is some `inline code`!
 
-## Tables
+## Volunteer Experience
 
-Now a table:
+UNION 4.0
+Staff of Event Organizer	Dec 2021 – Feb 2022
+•	Brainstormed and implemented event concepts and themes
+•	maintained punctuality throughout the event
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+---
+
+BUSINESS FAIR 2021
+Manager of Event Organizer	Dec 2021 – Jan 2022
+•	Conducted a successful webinar and a competition in the span of a month, succeeded reaching a total of more than 100 amount participants.
+•	Managed tasks and led a team of 6 people while also coordinating with other divisions.
+•	Organized and planned schedule, conducted the event rehearsal and also evaluated it. 
+•	Negotiated with sponsors on advertisement placement on the schedule. 
+
+---
+
+BASIC 2.0 
+Staff of Event Organizer	Oct 2021 – Nov 2021
+•	Planned a rundown for opening and closing ceremony.  
+•	Discussed the concept of the event.
+
+---
+
+CARASEL LEGANTARA 
+Stage Manager	Aug 2020 – Oct 2020
+•	Ensuring every performance on stage run accordingly to the plan and concepts.
+•	Conducted rehearsal schedules. 
+•	Coordinated with vendor on how the show would like to be executed on stage.
+•	The event went really well with Ardhito Pramono and Ziva Magnolya as two of the most anticipated performer while also reaching more than 1000 audiences.
+
 
 ## Images
 
 ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
 
-This is an image[^4]
-
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
-[^2]: hey there, don't forget to read all the footnotes!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
