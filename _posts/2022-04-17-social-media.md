@@ -1,5 +1,6 @@
 ---
 
+- Email: faza.melandri@gmail.com 
 - Instagram: https://www.instagram.com/fazamelandri/
 - LinkedIn: https://www.linkedin.com/in/melandri-abudzar/
 - Youtube: melandri rifaza
