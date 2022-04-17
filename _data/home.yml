@@ -1,9 +1,9 @@
 navbar_entries:
-  - title: About Melandri
+  - title: About This Website
     url: about
 
   - title: Social Media 
-    url: Social-Media
+    url: social-media
 
 project_entries:
 
@@ -16,7 +16,7 @@ project_entries:
     desc: You can see my CV here!
 
   - title: Social Media
-    url: Social-Media
+    url: social-media
     desc: Connect with me!
 
 
