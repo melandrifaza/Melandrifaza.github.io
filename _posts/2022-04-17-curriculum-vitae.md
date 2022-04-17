@@ -76,5 +76,5 @@ Stage Manager	Aug 2020 – Oct 2020
 
 ## Images
 
-![theme logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCo9fxaeLEu39P-2AJKmuuMQ&psig=AOvVaw3lL4wgXgkJkKDmQBq6YOm_&ust=1650249368775000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCZjo6ImvcCFQAAAAAdAAAAABAX)
+![theme logo](https://yt3.ggpht.com/ytc/AKedOLQJMv9t9YkOMG3pYZ_qJl7rh4m6O67eC8iV_Y7hUg=s900-c-k-c0x00ffffff-no-rj)
 
