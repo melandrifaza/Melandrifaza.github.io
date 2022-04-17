@@ -3,7 +3,7 @@ navbar_entries:
     url: about
 
   - title: Social Media 
-    url: blog
+    url: Social-Media
 
 project_entries:
 
@@ -16,7 +16,7 @@ project_entries:
     desc: You can see my CV here!
 
   - title: Social Media
-    url: overview-post
+    url: Social-Media
     desc: Connect with me!
 
 
