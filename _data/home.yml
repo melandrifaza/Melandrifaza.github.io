@@ -39,13 +39,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
+
+  - title: Email
+    url: faza.melandri@gmail.com
+
   - title: Instagram
     url: https://www.instagram.com/fazamelandri/
 
-  - title: Linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/in/melandri-abudzar/
 
-  - title: github
+  - title: Github
     url: https://github.com/melandrifaza
     
 misc_entries:
