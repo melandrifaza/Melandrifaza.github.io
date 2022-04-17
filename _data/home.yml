@@ -6,21 +6,18 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: UNION 4.0
-    url: overview-post
-    desc: Staff of Event Organizer
 
-  - title: BUSINESS FAIR 2021
+  - title: About Me 
     url: overview-post
-    desc: Manager of Event Organizer
+    desc: Get to know me more!
 
-  - title: BASIC 2.0 
+  - title: Curriculum Vitae
     url: overview-post
-    desc: Staff of Event Organizer
+    desc: You can see my CV here!
 
-  - title:  Carasel Legantara
+  - title: Social Media
     url: overview-post
-    desc: Stage Manager of Carasel Legantara 2020
+    desc: Connect with me!
 
 
 old_project_entries:
