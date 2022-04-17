@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
 
   - title: About Me 
-    url: overview-post
+    url: about-me
     desc: Get to know me more!
 
   - title: Curriculum Vitae
