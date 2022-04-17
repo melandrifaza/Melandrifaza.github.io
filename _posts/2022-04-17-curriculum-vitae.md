@@ -74,7 +74,7 @@ Stage Manager	Aug 2020 – Oct 2020
 •	The event went really well with Ardhito Pramono and Ziva Magnolya as two of the most anticipated performer while also reaching more than 1000 audiences.
 
 
-## Images
+## Foto 
 
 ![theme logo](https://yt3.ggpht.com/ytc/AKedOLQJMv9t9YkOMG3pYZ_qJl7rh4m6O67eC8iV_Y7hUg=s900-c-k-c0x00ffffff-no-rj)
 
